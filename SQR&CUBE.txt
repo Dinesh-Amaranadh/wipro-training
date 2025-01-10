@@ -1,0 +1,11 @@
+Start
+Read the number from user
+
+INPUT = a
+IF a % 2 == 0 THEN
+     DISPLAY -> a**2
+ELSE IF a % 2 == 1 THEN
+     DISPLAY -> a**3
+
+END
+
