@@ -1,3 +1,5 @@
+package Day4.Tasks;
+
 // Task 1: Jumping on the Clouds
 import java.util.*;
 

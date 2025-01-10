@@ -1,9 +1,0 @@
-START
-    INPUT a, b
-    IF a > b THEN
-        maximum = a
-    ELSE if a<b
-        maximum= b
-    ELSE
-        Both are Equal
-END
